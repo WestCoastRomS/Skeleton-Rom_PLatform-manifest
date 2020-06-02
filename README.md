@@ -1,1 +1,6 @@
-https://im5.ezgif.com/tmp/ezgif-5-c29f57c2f8b4.gif
+<input type="hidden" value="ezgif-5-c29f57c2f8b4.gif" name="file"><input type="hidden" value="b05cbc2694abf5" name="token">
+<p class="options">
+<label class="brix" style="padding-top:6px">Background color: <div class="minicolors minicolors-theme-default minicolors-position-bottom minicolors-position-left"><input type="text" size="7" name="background" class="text minicolors minicolors-input" value="ffffff"><span class="minicolors-swatch minicolors-sprite minicolors-input-swatch"><span class="minicolors-swatch-color" style="background-color: rgb(255, 255, 255);"></span></span><div class="minicolors-panel minicolors-slider-hue"><div class="minicolors-slider minicolors-sprite"><div class="minicolors-picker" style="top: 0px;"></div></div><div class="minicolors-opacity-slider minicolors-sprite"><div class="minicolors-picker"></div></div><div class="minicolors-grid minicolors-sprite" style="background-color: rgb(255, 0, 0);"><div class="minicolors-grid-inner"></div><div class="minicolors-picker" style="top: 0px; left: 0px;"><div></div></div></div></div></div></label><span style="font-size:11px;color:#777;display:block;padding:4px 0">GIF format supports transparency, but JPG does not.<br>This color will be used as background, if the image contains transparent areas.
+</span>
+</p>
+<p id="tool-submit-button"><input type="submit" class="button primary" value="Convert to JPG!" name="gif-to-jpg"></p>
